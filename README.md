@@ -1,2 +1,2 @@
 # MLProjectTS
-Time series prediction with reinforcement learning
+Time series prediction with reinforcement learning and neural networks.
